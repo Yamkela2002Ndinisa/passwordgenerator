@@ -1,0 +1,4 @@
+Credit: 500.0, Balance: 500.0
+Debit: -50.0, Balance: 550.0
+Credit: 700.0, Balance: 1200.0
+Debit: 550.0, Balance: 650.0
